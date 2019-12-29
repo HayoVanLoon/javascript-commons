@@ -1,0 +1,9 @@
+[
+  {
+    "origin": ["https://MY_CORS_ORIGIN"],
+    "responseHeader": ["Content-Type"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
+
